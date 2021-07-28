@@ -1,4 +1,3 @@
-- 
 - TODO buat satu salindia dengan Canva.com
 - TODO Catatan rapat SA Kamis 15.30 
 - [[sejarah]]
