@@ -1,0 +1,12 @@
+- angkatan 73 pertama ada TPB
+- kewenangan berubah-ubah
+	- pernah kuat (pra-Rektor KK)
+		- sekelas fak/sek
+		- ikut rapim
+	- pernah lemah (pasca-Rektor KK)
+		- sekelas program atau lembaga
+		- di bawah direktorat
+	- dulu mahasiswa langsung masuk ke prodi vs sekarang masuk ke fak/sek dulu
+		- masalah kapasitas vs minat
+		- prodi kebanjiran minat vs kekurangan minat
+		-

@@ -1,0 +1,1 @@
+# Mengolaborasikan informasi 

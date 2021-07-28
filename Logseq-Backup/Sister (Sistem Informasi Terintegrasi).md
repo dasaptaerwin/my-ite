@@ -1,0 +1,19 @@
+- Komponen yang ada di dalamnya:
+	- pengajaran [[mengajar]]
+		- mengajar ini termasuk mengajar kursus daring (MOOC - massive open online course)
+	- penelitian [[meneliti]]
+	- pengabdian kepada masyarakat [[pengabdian kepada masyarakat (PKM)]]
+- positif
+	- daring -> dapat diisi dari mana saja
+	- terkoneksi -> antar data penulis
+	- ...
+- negatif
+	- antarmuka (_interface_) masih banyak kekurangan mendasar
+		- pesan kesalahan tidak segera terlihat apa yang salah
+		- bila terjadi kesalahan, semua data yang telah dimasukkan menjadi hilang
+		- sementara klik `simpan` berfungsi hanya bila data wajib telah diisi
+		- jadi setelah diklik `simpan` baru diketahui bahwa ada data wajib yang masih kosong atau salah pengisiannya
+	- data yang dimasukkan banyak tapi tidak ada modus sync yang handal dengan akun lain, misal [SINTA](https://sinta2.ristekbrin.go.id), [ORCID](https://orcid.org).
+	- cara mengisi hanya satu cara, yaitu dengan cara mengunggah dokumen,
+		- walaupun dokumen tersebut telah tersedia daring.
+	-

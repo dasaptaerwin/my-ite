@@ -1,0 +1,1 @@
+Saya telah membuat tulisan terpisah tentang ini di [[0. pendahuluan]].

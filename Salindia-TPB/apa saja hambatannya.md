@@ -1,0 +1,17 @@
+- kelembagaan -> berkaitan dengan:
+	- taksonomi, nomenklatur
+	- kewenangan
+	- sumber daya
+	- operasional
+- kondisi mahasiswa
+	- kasus gangguan kesehatan mental
+		- banyak kasus di RS Melinda
+	- jumlah besar vs sumber daya terbatas
+		- terkait dengan kelembagaan dan kewenangan
+		- kewenangan sempit -> dana kecil
+		- kewenangan luas -> dana besar
+		- distribusi dana di TPB dan di Fak/Sek
+- arus pendanaan
+	- program ada di TPB tapi dana ada yang di fak/sek
+		- TPB menjadi lemah kewenangannya
+		-

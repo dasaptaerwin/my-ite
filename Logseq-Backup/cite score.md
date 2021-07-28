@@ -1,0 +1,2 @@
+- perhitungan metric yang dibuat oleh Scopus
+- berbasis jumlah sitasi

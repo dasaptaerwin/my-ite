@@ -1,0 +1,3 @@
+- menekan bias
+- tidak menang sendiri
+- selalu ingin mendengar dan mengolah apa yang didengar

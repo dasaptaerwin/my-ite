@@ -1,0 +1,1 @@
+# Mengevaluasi informasi

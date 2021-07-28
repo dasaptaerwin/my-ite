@@ -1,0 +1,11 @@
+- Opening access
+	- Open access to files
+	- Open access to contents
+		- Meaning: friendly for common people
+		- Importance: what will we get if we don't do it
+		- how to **implement**: how to do it
+- Open Access
+	- becomes a jargon
+	- "I go OA"
+	- Means only putting a pdf on a [[Gold]] open access journal
+- Back to [[Scicomm]]

@@ -1,0 +1,3 @@
+- anggaran tahun berikutnya akan ditentukan oleh kinerja tahun sebelumnya.
+- untuk perguruan tinggi, indikator yang diutamakan adalah artikel di jurnal internasional.
+- [[IKU (Indikator Kinerja Utama)]]

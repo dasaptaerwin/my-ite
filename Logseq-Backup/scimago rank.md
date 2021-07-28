@@ -1,0 +1,3 @@
+- perhitungan metrik level jurnal
+- rumus yang dikembangkan oleh [scimago](https://www.scimagojr.com/SCImagoJournalRank.pdf)
+- data dari scopus

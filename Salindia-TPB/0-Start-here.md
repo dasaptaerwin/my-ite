@@ -1,0 +1,9 @@
+- 
+- TODO buat satu salindia dengan Canva.com
+- TODO Catatan rapat SA Kamis 15.30 
+- [[sejarah]]
+- [[mulai dari mana]]
+- [[menuju ke mana]]
+- [[apa saja hambatannya]]
+- [[refleksi]]
+- [[bagaimana solusinya]]

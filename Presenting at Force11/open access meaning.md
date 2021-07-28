@@ -1,0 +1,2 @@
+- open access to the files
+- open access to the contents

@@ -1,0 +1,1 @@
+# Mengamankan informasi

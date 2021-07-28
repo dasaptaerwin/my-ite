@@ -1,0 +1,1 @@
+# Menganalisis informasi

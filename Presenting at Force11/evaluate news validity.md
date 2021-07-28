@@ -1,0 +1,3 @@
+- Source: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.878.1370&rep=rep1&type=pdf
+- #factchecking
+- second opinion

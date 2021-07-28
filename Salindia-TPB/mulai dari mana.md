@@ -1,0 +1,4 @@
+- baru lulus SMA: mental labil, transisi,
+- lingkungan yang homogen
+- tingkat pengetahuan dasar beragam
+- softskill dan hardskill tidak seimbang
