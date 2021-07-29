@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scicomm-seanos2021/0-Start-here.md",
-            "mode": "preview"
+            "file": "Salindia-TPB/bagaimana solusinya.md",
+            "mode": "source"
           }
         },
         "group": "8dbe7ae38bd2608d"
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Scicomm-seanos2021/0-Start-here.md",
+            "file": "Salindia-TPB/bagaimana solusinya.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scicomm-seanos2021/0-Start-here.md",
+                "file": "Salindia-TPB/bagaimana solusinya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +125,15 @@
   },
   "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
+    "Salindia-TPB/bagaimana solusinya.md",
+    "Salindia-TPB/softskill dan hardskill seimbang dan kuat.md",
+    "Salindia-TPB/apa saja hambatannya.md",
+    "Salindia-TPB/menuju ke mana.md",
+    "Salindia-TPB/mulai dari mana.md",
+    "Salindia-TPB/sejarah.md",
+    "Salindia-TPB/0-Start-here.md",
     "Scicomm-seanos2021/0-Start-here.md",
     "2021-W30.md",
-    "Integrated Thinking Environment/Presenting Information.md",
-    "Salindia-TPB/0-Start-here.md"
+    "Integrated Thinking Environment/Presenting Information.md"
   ]
 }
