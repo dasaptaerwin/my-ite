@@ -8,19 +8,65 @@
         "type": "split",
         "children": [
           {
-            "id": "3c5fa7c8f8e06e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salindia-TPB/0-Start-Salindia-TPB.md",
-                "mode": "source"
+            "id": "b51a285ea2fbf165",
+            "type": "split",
+            "dimension": 52.57861635220126,
+            "children": [
+              {
+                "id": "3c5fa7c8f8e06e67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Membuat-media-berkala/0-Start-membuat-media.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "1bdc5539f9afcd22"
+              },
+              {
+                "id": "83432bfffec589d9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Membuat-media-berkala/0-Start-membuat-media.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "1bdc5539f9afcd22"
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "cc9469e67afb7640",
             "type": "leaf",
+            "dimension": 47.42138364779874,
             "state": {
               "type": "mindmap",
               "state": {}
@@ -83,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salindia-TPB/0-Start-Salindia-TPB.md",
+                "file": "Membuat-media-berkala/0-Start-membuat-media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
-    "Salindia-TPB/0-Start-here.md",
-    "Presenting at Force11/0-Start-here.md",
+    "Membuat-media-berkala/0-Start-membuat-media.md",
+    "non-linear note taking.md",
+    "Integrated Thinking Environment/bagaimana kita membuat catatan.md",
+    "Integrated Thinking Environment/personal knowledge management.md",
+    "Integrated Thinking Environment/0-Start-here.md",
+    "Tentang-Obsidian/0. pendahuluan.md",
+    "Eldorado-kota-emas/0-Start-Eldorado.md",
     "Untitled.md",
-    "Scicomm-seanos2021/Integrated thinking environment.md",
-    "Scicomm-seanos2021/Gold.md",
-    "Scicomm-seanos2021/Drawings.md",
-    "Scicomm-seanos2021/Drawing 2021-08-02 17.31.47.excalidraw.md",
-    "Scicomm-seanos2021/Dissemination vs publication.md",
-    "Scicomm-seanos2021/contents.md",
-    "Scicomm-seanos2021/Communicate.md"
+    "Salindia-TPB/0-Start-here.md",
+    "Presenting at Force11/0-Start-here.md"
   ]
 }

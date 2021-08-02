@@ -1,1 +1,1 @@
-Saya telah membuat tulisan terpisah tentang ini di [[0. pendahuluan]].
+Saya telah membuat tulisan terpisah tentang ini di [[0. pendahuluan]], yang isinya tentang [[non-linear note taking]]
