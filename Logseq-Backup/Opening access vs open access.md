@@ -8,4 +8,4 @@
 	- becomes a jargon
 	- "I go OA"
 	- Means only putting a pdf on a [[Gold]] open access journal
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

@@ -2,4 +2,4 @@
 	- [[Youtube]]
 	- [[Twitter]], [[Facebook]], [[Instagram]]
 	- Creativity
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

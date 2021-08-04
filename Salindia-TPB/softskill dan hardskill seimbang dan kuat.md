@@ -1,7 +1,7 @@
 - Ref [CDC ITB](https://karir.itb.ac.id/articles/detail/848)
 	- Keahlian komunikasi
 		- #Scicomm
-		- [[Scicomm]]
+		- [[scicomm]]
 		- menulis
 		- berbicara
 		- menyampaikan ide atau gagasan dengan jelas

@@ -5,4 +5,4 @@
 		- arrows
 	- communicator not an artist [[Communicate]]
 	- delivering message not just art
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

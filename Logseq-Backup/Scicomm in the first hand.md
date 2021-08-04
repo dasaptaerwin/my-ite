@@ -1,9 +1,9 @@
 - Scientists take main roles
 	- First hand
-	- Relates to [[Tools]] and [[skills]]
+	- Relates to [[Tools]] and [[Skills]]
 	- [[Open mind]]
 - supported by journalists
 	- Clarification
 	- [[Critical thinking]]
 	- How to [[evaluate news validity]]
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

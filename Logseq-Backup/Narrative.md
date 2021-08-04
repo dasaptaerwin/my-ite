@@ -5,4 +5,4 @@
 	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Global_ranking_distortion.jpg/512px-Global_ranking_distortion.jpg)]
 - or just use basic geometries and a bunch of text
 	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Face-oa.jpg/512px-Face-oa.jpg)]
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

@@ -5,6 +5,6 @@
 	- Not only to share
 	- But also to response
 	- And to help others
-	- Back to [[Scicomm]]
+	- Back to [[scicomm]]
 - or shift subject to [[Integrated thinking environment]]
 	-

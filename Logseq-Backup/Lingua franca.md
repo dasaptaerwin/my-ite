@@ -1,4 +1,4 @@
 - English, Latin, German
 - vs translation app/platform
 - etc
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

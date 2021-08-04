@@ -5,4 +5,4 @@
 - By creating values
 	- simple and
 	- meaningful
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

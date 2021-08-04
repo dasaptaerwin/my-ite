@@ -1,0 +1,3 @@
+- 6 Agt 2021 [https://link.medium.com/Xewj6BUTlib](https://link.medium.com/Xewj6BUTlib)
+- 15 Oktober 2021: [[Seanos2021]] 10 hari sebelumnya ada acara ini juga. Masih di bulan Oktober. Juga sebagai selingan Sister. Jangan lupa juga. 10 hari sebelumnya ada acara ini. [http://sciencesea2021.com](http://sciencesea2021.com/
+- 25 Oktober 2021: [[COAR webinar]] [tautan ke acara](https://library.smu.edu.sg/asiaoa2021#programme)

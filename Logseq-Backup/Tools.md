@@ -3,4 +3,4 @@
 - Translations
 	- [[Language barriers]]
 	- [[Lingua franca]]
-- Back to [[Scicomm]]
+- Back to [[scicomm]]

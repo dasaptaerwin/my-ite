@@ -1,0 +1,12 @@
+ - COAR webinar 25th October 2021
+	 - [Recommend to use green OA (OA using repository)](https://workflowy.com/#/aeb561f77ce2)
+	 - [peer review terbuka dan publik](https://workflowy.com/#/785c17c51e62)
+	 - Panel Discussion 4 | Different Approaches to Peer Review: Preprints in India and Indonesia, Publish and Review Models in France
+	 - Synopsis: 
+		 - How did India and Indonesia set up preprint repositories? Motivations, challenges and how to overcome them and advice to others who may be interested in pursuing a similar direction. How did France build communities of researchers reviewing and recommending for free preprints in their fields in an open, independent, non-exclusive and reliable way, managed by researchers and for researchers? How are researchers empowered to regain control of scholarly publishing refocusing on articles and not the journals quality? How do research performing and research funding institutions support this process? And how inclusiveness and equity is ensured in this process?
+	 - Moderator: Iryna KUCHMA, Open Access Programme Manager, Electronic Information for Libraries
+	 - Panellists:
+		 - Dr Sridhar GUTAM, Senior Scientist, ICAR-IIHR, Convener, Open Access India, and Member, Advisory Board, agriRxiv - Preprints for Agriculture and Allied Sciences
+		 - Dr Dasapta Erwin IRAWAN, Applied Geology Research Group, Faculty of Earth Sciences and Technology, Institut Teknologi Bandung, RINarxiv
+		 - Tautan acara: [https://library.smu.edu.sg/asiaoa2021#programme](https://library.smu.edu.sg/asiaoa2021#programme)
+		 - Tautan registrasi: [https://library.smu.edu.sg/asiaoa2021#programme](https://library.smu.edu.sg/asiaoa2021#programme)
