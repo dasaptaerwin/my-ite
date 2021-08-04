@@ -1,0 +1,6 @@
+- #meeting 
+-   Topic: FGD Restrukturisasi Fakultas/Sekolah di ITB
+-   Time: Aug 5, 2021 13:00 Jakarta
+-   Join Zoom Meeting [https://us02web.zoom.us/j/81196238306](https://us02web.zoom.us/j/81196238306)
+-   Meeting ID: 811 9623 8306
+-   Bapak/Ibu dapat mengunduh kembali bahan FGD pada link berikut : [http://tiny.cc/bahanfgd](http://tiny.cc/bahanfgd)

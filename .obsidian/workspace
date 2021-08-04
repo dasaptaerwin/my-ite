@@ -15,20 +15,20 @@
               {
                 "id": "3c5fa7c8f8e06e67",
                 "type": "leaf",
-                "dimension": 67.23790322580645,
+                "dimension": 69.23076923076923,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Daily-notes/2021-08-04.md",
+                    "file": "Meetings/FGD Restrukturisasi Fakultas.md",
                     "mode": "source"
                   }
                 },
                 "group": "1bdc5539f9afcd22"
               },
               {
-                "id": "c4dee31ff779c90a",
+                "id": "947f54ef456d7dc8",
                 "type": "leaf",
-                "dimension": 32.76209677419355,
+                "dimension": 30.76923076923077,
                 "state": {
                   "type": "mindmap",
                   "state": {}
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-notes/2021-08-04.md",
+                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-notes/2021-08-04.md",
+                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-notes/2021-08-04.md"
+                "file": "Meetings/FGD Restrukturisasi Fakultas.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-notes/2021-08-04.md",
+                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,15 +192,15 @@
   },
   "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
+    "Loose-notes/FGD Restrukturisasi Fakultas.md",
+    "Daily-notes/2021_08_05.md",
+    "Loose-notes/Apa kata Nugraha_.md",
+    "Loose-notes/2021-08-04 HIMAFI.md",
+    "Daily-notes/2021_08_04.md",
     "Daily-notes/2021-08-04.md",
     "2021-08-05.md",
     "non-linear note taking.md",
     "COAR webinar.md",
-    "Acara sains terbuka Agt-Okt 2021.md",
-    "Daily-notes/2021-W30.md",
-    "2021-08-04.md",
-    "Seanos2021.md",
-    "Logseq-Backup/Integrated Thinking Environment (ITE).md",
-    "Membuat-media-berkala/0-Start-membuat-media.md"
+    "Acara sains terbuka Agt-Okt 2021.md"
   ]
 }
