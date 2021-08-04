@@ -1,4 +1,0 @@
-- non-English speaking countries
-- biased against their own language
-- international reputation = English language
-- Back to [[scicomm]]

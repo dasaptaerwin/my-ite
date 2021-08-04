@@ -1,5 +1,0 @@
-- ![](https://image.slidesharecdn.com/replication-noanim-170901070941/95/replication-of-recommender-systems-research-20-638.jpg?cb=1504258688)
-	- [ref3](https://www.slideshare.net/alansaid/replication-of-recommender-systems-research)
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Y6hhJvIZhls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	- [ref1](https://phys.org/news/2019-05-replicability-science.html), [ref2](https://www.ncbi.nlm.nih.gov/books/NBK547546/)
-	-

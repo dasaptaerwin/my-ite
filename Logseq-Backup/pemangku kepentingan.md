@@ -1,5 +1,0 @@
-- minimum terdiri dari:
-	- akademik (perguruan tinggi)
-	- masyarakat
-	- industri
-	- pemerintah

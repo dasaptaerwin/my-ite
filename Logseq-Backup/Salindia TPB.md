@@ -1,7 +1,0 @@
-- [[Jul 29th, 2021]] rapat kamis jam 15.30
-- [[sejarah]]
-- [[mulai dari mana]]
-- [[menuju ke mana]]
-- [[apa saja hambatannya]]
-- [[refleksi]]
-- [[bagaimana solusinya]]

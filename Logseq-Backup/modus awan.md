@@ -1,1 +1,0 @@
-- Logseq modus awan dapat dilakukan dengan menghubungkan akun Logseq dengan [Github](https://github.com).

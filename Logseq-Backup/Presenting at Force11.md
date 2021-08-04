@@ -1,5 +1,0 @@
-- your paper is published, it's not the end of the journey
-	- [link to slides](https://doi.org/10.5281/zenodo.5140429)
-- [[Scicomm in the first hand]]
-- [[open access meaning]]
--

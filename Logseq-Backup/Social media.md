@@ -1,5 +1,0 @@
-- Vlogs (audio visual) and blogs (text)
-	- [[Youtube]]
-	- [[Twitter]], [[Facebook]], [[Instagram]]
-	- Creativity
-- Back to [[scicomm]]

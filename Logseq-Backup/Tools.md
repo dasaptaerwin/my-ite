@@ -1,6 +1,0 @@
-- [[Social media]]
-- [[Drawings]] #sciart #visualthinkingatwork
-- Translations
-	- [[Language barriers]]
-	- [[Lingua franca]]
-- Back to [[scicomm]]

@@ -1,8 +1,0 @@
-- based on facts but beyond numbers
-- Storytelling
-	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stop-exploitation-free-academic_labour.jpg/512px-Stop-exploitation-free-academic_labour.jpg){:height 387, :width 512}]
-- Analogies/metaphors
-	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Global_ranking_distortion.jpg/512px-Global_ranking_distortion.jpg)]
-- or just use basic geometries and a bunch of text
-	- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Face-oa.jpg/512px-Face-oa.jpg)]
-- Back to [[scicomm]]

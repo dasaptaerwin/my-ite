@@ -1,5 +1,0 @@
-- faktor dampak
-	- dampak apa?
-	- [[journal impact factor]]
-	- yang lain: ada [[cite score]], [[scimago rank]]
-	- terlalu banyak?

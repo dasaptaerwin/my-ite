@@ -19,8 +19,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "non-linear note taking.md",
-                    "mode": "preview"
+                    "file": "Daily-notes/2021-08-04.md",
+                    "mode": "source"
                   }
                 },
                 "group": "1bdc5539f9afcd22"
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "non-linear note taking.md",
+                "file": "Daily-notes/2021-08-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "non-linear note taking.md",
+                "file": "Daily-notes/2021-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "non-linear note taking.md"
+                "file": "Daily-notes/2021-08-04.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "non-linear note taking.md",
+                "file": "Daily-notes/2021-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,15 +192,15 @@
   },
   "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
+    "Daily-notes/2021-08-04.md",
+    "2021-08-05.md",
     "non-linear note taking.md",
     "COAR webinar.md",
     "Acara sains terbuka Agt-Okt 2021.md",
-    "Daily-notes/2021-08-04.md",
     "Daily-notes/2021-W30.md",
     "2021-08-04.md",
     "Seanos2021.md",
     "Logseq-Backup/Integrated Thinking Environment (ITE).md",
-    "Membuat-media-berkala/0-Start-membuat-media.md",
-    "Integrated Thinking Environment/bagaimana kita membuat catatan.md"
+    "Membuat-media-berkala/0-Start-membuat-media.md"
   ]
 }

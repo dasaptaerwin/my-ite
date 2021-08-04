@@ -1,6 +1,0 @@
-- homogen
-- similar
-	- age group
-	- education
-	- way of thinking
-	- science

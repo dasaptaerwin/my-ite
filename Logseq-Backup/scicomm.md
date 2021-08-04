@@ -1,8 +1,0 @@
-- ![Scicomm-is-the-key](https://upload.wikimedia.org/wikipedia/commons/1/10/SCICOMM-ANIMALS.jpg)
-- [[Communicate]]
-- [[Dissemination vs publication]]
-- [[Opening access vs open access]]
-- [[Scicomm in the first hand]]
-- [[Tools]]
-- [[Skills]]
-- [[Narrative]]

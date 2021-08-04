@@ -1,7 +1,0 @@
-- sitasi data:
-	- data adalah luaran independen
-	- dianggap terpisah dari luaran utama berupa laporan eksplanatori
-	- data diunggah terpisah dan disitir di dalam laporan
-	- maka laporan lain dapat menyitir data yang sama
-	- sitiran data dilakukan sama seperti sitiran ke sumber yang lain
-	- mendukung ke upaya [[reproduksi dan replikasi]]

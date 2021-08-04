@@ -1,8 +1,0 @@
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BOREDOM.jpg/512px-BOREDOM.jpg){:height 639, :width 520}
-- Audience-oriented, more of a listener than speaker, so anticipate mis-information
-- Not enforcing, but making science interesting
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geologist-in-the-making.jpg/512px-Geologist-in-the-making.jpg)
-- By creating values
-	- simple and
-	- meaningful
-- Back to [[scicomm]]

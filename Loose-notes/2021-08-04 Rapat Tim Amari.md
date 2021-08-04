@@ -1,0 +1,12 @@
+- Diskusi
+	- promosi website amari.itb.ac.id
+		- penyebaran info
+		- materi dibuat lebih ramah lagi
+		- perlu software canva #Today kontak shop
+	- pertanyaan tendik banyak yang dapat dijawab oleh website amari
+	- dalam bulan Agt ada diskusi/webinar
+		- masalah edukasi
+		- laporan amari agar warga mengetahui hotspot di kampus
+		  kapan?
+	- teknis untuk teleedukasi
+		- kontrak dokter itb habis

@@ -1,3 +1,0 @@
-- Dissemination = delivering your message = outreach
-- Publication = telling [[small group]] of people what you know
-- back to [[scicomm]]
