@@ -10,16 +10,16 @@
           {
             "id": "7dfcfcea8e23772f",
             "type": "split",
-            "dimension": 64.2692750287687,
+            "dimension": 81.48148148148148,
             "children": [
               {
                 "id": "3c5fa7c8f8e06e67",
                 "type": "leaf",
-                "dimension": 69.23076923076923,
+                "dimension": 44.686299615877076,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Meetings/FGD Restrukturisasi Fakultas.md",
+                    "file": "Loose-notes/Rapat pan adhoc TPB.md",
                     "mode": "source"
                   }
                 },
@@ -28,7 +28,7 @@
               {
                 "id": "947f54ef456d7dc8",
                 "type": "leaf",
-                "dimension": 30.76923076923077,
+                "dimension": 55.313700384122924,
                 "state": {
                   "type": "mindmap",
                   "state": {}
@@ -40,11 +40,11 @@
           {
             "id": "83432bfffec589d9",
             "type": "leaf",
-            "dimension": 35.7307249712313,
+            "dimension": 18.51851851851852,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
+                "file": "Loose-notes/Rapat pan adhoc TPB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
+                "file": "Loose-notes/Rapat pan adhoc TPB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/FGD Restrukturisasi Fakultas.md"
+                "file": "Loose-notes/Rapat pan adhoc TPB.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/FGD Restrukturisasi Fakultas.md",
+                "file": "Loose-notes/Rapat pan adhoc TPB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,15 +192,15 @@
   },
   "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
-    "Loose-notes/FGD Restrukturisasi Fakultas.md",
+    "Loose-notes/Rapat pan adhoc TPB.md",
     "Daily-notes/2021_08_05.md",
+    "Loose-notes/FGD Restrukturisasi Fakultas.md",
     "Loose-notes/Apa kata Nugraha_.md",
     "Loose-notes/2021-08-04 HIMAFI.md",
     "Daily-notes/2021_08_04.md",
     "Daily-notes/2021-08-04.md",
     "2021-08-05.md",
     "non-linear note taking.md",
-    "COAR webinar.md",
-    "Acara sains terbuka Agt-Okt 2021.md"
+    "COAR webinar.md"
   ]
 }
