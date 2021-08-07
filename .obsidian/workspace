@@ -8,71 +8,79 @@
         "type": "split",
         "children": [
           {
-            "id": "7dfcfcea8e23772f",
+            "id": "3c5fa7c8f8e06e67",
+            "type": "leaf",
+            "dimension": 81.51571164510166,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-notes/2021_08_06.md",
+                "mode": "source"
+              }
+            },
+            "group": "1bdc5539f9afcd22"
+          },
+          {
+            "id": "a88c2464b82566a6",
             "type": "split",
-            "dimension": 81.48148148148148,
+            "dimension": 18.484288354898336,
             "children": [
               {
-                "id": "3c5fa7c8f8e06e67",
+                "id": "83432bfffec589d9",
                 "type": "leaf",
-                "dimension": 44.686299615877076,
                 "state": {
-                  "type": "markdown",
+                  "type": "localgraph",
                   "state": {
-                    "file": "Loose-notes/Rapat pan adhoc TPB.md",
-                    "mode": "source"
+                    "file": "Daily-notes/2021_08_06.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
                   }
                 },
                 "group": "1bdc5539f9afcd22"
               },
               {
-                "id": "947f54ef456d7dc8",
+                "id": "3bc36bfcb7f0d0c5",
                 "type": "leaf",
-                "dimension": 55.313700384122924,
                 "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily-notes/2021_08_06.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "1bdc5539f9afcd22"
               }
             ],
             "direction": "horizontal"
-          },
-          {
-            "id": "83432bfffec589d9",
-            "type": "leaf",
-            "dimension": 18.51851851851852,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loose-notes/Rapat pan adhoc TPB.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "1bdc5539f9afcd22"
           }
         ],
         "direction": "vertical"
@@ -123,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204
   },
   "right": {
     "id": "ce76ec573ff5cbdf",
@@ -139,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loose-notes/Rapat pan adhoc TPB.md",
+                "file": "Daily-notes/2021_08_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loose-notes/Rapat pan adhoc TPB.md"
+                "file": "Daily-notes/2021_08_06.md"
               }
             }
           },
@@ -177,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loose-notes/Rapat pan adhoc TPB.md",
+                "file": "Daily-notes/2021_08_06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c5fa7c8f8e06e67",
+  "active": "3bc36bfcb7f0d0c5",
   "lastOpenFiles": [
+    "Daily-notes/2021_08_06.md",
+    "Loose-notes/Black hole sun.md",
+    "Loose-notes/Persiapan Presentasi FGB.md",
     "Loose-notes/Rapat pan adhoc TPB.md",
     "Daily-notes/2021_08_05.md",
     "Loose-notes/FGD Restrukturisasi Fakultas.md",
     "Loose-notes/Apa kata Nugraha_.md",
     "Loose-notes/2021-08-04 HIMAFI.md",
     "Daily-notes/2021_08_04.md",
-    "Daily-notes/2021-08-04.md",
-    "2021-08-05.md",
-    "non-linear note taking.md",
-    "COAR webinar.md"
+    "Daily-notes/2021-08-04.md"
   ]
 }
