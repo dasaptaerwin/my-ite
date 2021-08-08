@@ -8,22 +8,37 @@
         "type": "split",
         "children": [
           {
-            "id": "3c5fa7c8f8e06e67",
-            "type": "leaf",
-            "dimension": 81.51571164510166,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-notes/2021_08_06.md",
-                "mode": "source"
+            "id": "b429cf8cbec7128b",
+            "type": "split",
+            "dimension": 69.64285714285714,
+            "children": [
+              {
+                "id": "3c5fa7c8f8e06e67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Loose-notes/Geologi Menyapa ke-17.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "1bdc5539f9afcd22"
+              },
+              {
+                "id": "b5afacbef3972c02",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            },
-            "group": "1bdc5539f9afcd22"
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "a88c2464b82566a6",
             "type": "split",
-            "dimension": 18.484288354898336,
+            "dimension": 30.357142857142854,
             "children": [
               {
                 "id": "83432bfffec589d9",
@@ -31,7 +46,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Daily-notes/2021_08_06.md",
+                    "file": "Loose-notes/Geologi Menyapa ke-17.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -67,7 +82,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Daily-notes/2021_08_06.md",
+                    "file": "Loose-notes/Geologi Menyapa ke-17.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-notes/2021_08_06.md",
+                "file": "Loose-notes/Geologi Menyapa ke-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-notes/2021_08_06.md"
+                "file": "Loose-notes/Geologi Menyapa ke-17.md"
               }
             }
           },
@@ -185,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-notes/2021_08_06.md",
+                "file": "Loose-notes/Geologi Menyapa ke-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,17 +213,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bc36bfcb7f0d0c5",
+  "active": "3c5fa7c8f8e06e67",
   "lastOpenFiles": [
+    "Loose-notes/Geologi Menyapa ke-17.md",
+    "Daily-notes/2021_08_07.md",
+    "Loose-notes/Untitled.md",
+    "Daily-notes/2021_08_08.md",
+    "Loose-notes/Notion Interview Andy Hertzfeld.md",
     "Daily-notes/2021_08_06.md",
     "Loose-notes/Black hole sun.md",
     "Loose-notes/Persiapan Presentasi FGB.md",
     "Loose-notes/Rapat pan adhoc TPB.md",
-    "Daily-notes/2021_08_05.md",
-    "Loose-notes/FGD Restrukturisasi Fakultas.md",
-    "Loose-notes/Apa kata Nugraha_.md",
-    "Loose-notes/2021-08-04 HIMAFI.md",
-    "Daily-notes/2021_08_04.md",
-    "Daily-notes/2021-08-04.md"
+    "Daily-notes/2021_08_05.md"
   ]
 }

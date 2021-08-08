@@ -1,0 +1,84 @@
+# Geologi menyapa #17
+
+-   Geofisika dalam eksplorasi migas (Dr. Prihadi Sumintadireja)
+-   Pendahuluan
+    -   Poin utama eksplorasi:
+        -   apa
+        -   lokasi
+        -   bagaimana
+        -   alat apa
+        -   berapa potensinya -> terkait eksplorasi sumber daya
+    -   Aplikasi
+        -   pencarian sumber daya bumi
+            -   mineral
+            -   batubara
+            -   migas
+            -   geotermal
+            -   CCS
+            -   dll
+        -   pencarian obyek arkeologi
+            -   candi
+            -   makam
+            -   sarkofagus
+            -   dll
+        -   bencana kebumian
+            -   potensi likuifaksi
+            -   seismologi via gempa
+            -   dll
+        -   lingkungan
+            -   geologi teknik
+            -   air tanah/hidrogeologi
+            -   kestabilan lereng
+            -   dll
+    -   alur
+        -   pengambilan data ->
+        -   pengolahan data ->
+        -   interpretasi data -> data sama, interpretasi bisa berbeda
+-   Kompetensi -> SDM
+    -   Tingkatan kompetensi
+        -   awareness (sekedar tahu)
+        -   aplikasi dasar (paham aplikasi dasar dengan supervisi)
+        -   aplikasi lanjut (paham aplikasi tanpa supervisi)
+        -   master
+-   HSE dan perencanaan
+-   HSE
+    -   penting
+    -   wajib di industri
+    -   ada auditnya
+    -   TOR (biasanya) ada
+-   Perencanaan eksplorasi
+    -   tahapan
+        -   Tahapan eksplorasi
+            
+        -   survei awal
+            -   [[teknologi LIDAR ]]sudah biasa dipakai
+            -   di perusahaan besar
+        -   [[eksplorasi GGG]]
+            -   geologi
+                -   petrologi
+                -   stratigrafi
+                -   sedimentologi
+                -   struktur geologi
+            -   geofisika
+            -   geokimia
+        -   bor eksplorasi
+        -   studi kelayakan
+        -   pemboran mulai beroperasi
+        -   operasional dan pemeliharaan
+-   Metode geofisika di dunia industri
+    -   Metode yang tercanggih saat ini yang digunakan
+        -   industri migas -> seismik refleksi
+        -   industri geotermal -> magnetotelluric (MT/CSAMT) -> penetrasi lebih dalam -> sinyal yang diukur bisa natural/buatan
+        -   Seismik
+            -   bisa di darat atau di laut,
+            -   jumlah geofon bisa ratusan,
+        -   MT
+            -   pengukuran seharian
+            -   penyajian 2D atau 3D
+-   Enhanced oli recovery
+    -   Geofisika untuk memantau injeksi
+    -   Data pemantauan real time dan banyak dapat membuat animasi pergerakan fluida seperti kartun
+-   Pesan penutup
+    -   Data tidak akan cukup, maka perlu pembatasan masalah dan optimalisasi data
+    -   Pengetahuan geosains terus berkembang -> kemajuan teknologi -> volume data terus bertambah
+    -   Data logger -> perlu bergeser dari pemetaan ke pemantauan
